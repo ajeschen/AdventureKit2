@@ -1,6 +1,7 @@
 # Passive Buzzers
 
-<iframe width="1264" height="711" src="https://www.youtube.com/embed/rrHpzDxW1Xg" title="ADVK2 Active and Passive Buzzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Video Link:
+https://www.youtube.com/watch?v=rrHpzDxW1Xg
 
 ## Two Pin Passive Buzzer
 Fixed pitch buzzer that buzzes when ever + PIN is held HIGH.  Can be found in misc small parts box.  There
